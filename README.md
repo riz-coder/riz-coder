@@ -14,10 +14,10 @@ GitHub: [riz-coder](https://github.com/riz-coder)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-rizwan-amanat/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:muhammadrizwanamanat@gmail.com))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:muhammadrizwanamanat@gmail.com/)
 
 ## Languages and Tools:
-## Languages and Tools:
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-black?style=flat-square&logo=google-colab)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
