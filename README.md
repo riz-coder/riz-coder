@@ -10,7 +10,7 @@ GitHub: [riz-coder](https://github.com/riz-coder)
 
 📫 How to reach me: [muhammadrizwanamanat@gmail.com](mailto:muhammadrizwanamanat@gmail.com)
 
-📄 Know about my experiences: [LinkedIn]([https://www.linkedin.com/in/muhammad-rizwan-amanat/])
+📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-amanat/)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-rizwan-amanat/)
