@@ -1,8 +1,8 @@
 # Hi 👋, I'm Muhammad Rizwan Amanat
 A Data Scientist from Pakistan  
-GitHub: [sahillatif0](https://github.com/Sahillatif0)
+GitHub: [riz-coder]([https://github.com/riz-coder])
 
-🌱 I’m currently learning RAG, GenAI, LLMs, Deep Learning, Machine Learning
+🌱 I’m currently learning **RAG, GenAI, LLMs, Deep Learning, Machine Learning**
 
 👨‍💻 All of my projects are available at [https://github.com/Sahillatif0](https://github.com/Sahillatif0](https://github.com/riz-coder/DL)
 
